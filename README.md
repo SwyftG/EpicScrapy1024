@@ -35,8 +35,11 @@
 
 
 ## Run screenshots
-![](https://wx4.sinaimg.cn/mw1024/a726c4d3gy1fr9p3tn7pyg20sb0dl1ky.gif)
-![]()
+![](https://wx4.sinaimg.cn/mw1024/a726c4d3gy1fr9p3tn7pyg20sb0dl1ky.gif)  
+![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISsVRic2XxECG7ZTArjGJew2YEdXNicSVTp5dGiaaaEKaMHxxHkSBc8SoFw/0?wx_fmt=png)  
+![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISwvFicyK9A1rJffECHmlHzcKaiczowIRqU4dmcy2VKs0ib4QG3hC0w9ia1w/0?wx_fmt=png)  
+![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISseQ4lHD6ia9jsVutsY1ib6DT00SGtw0N1ojeNJB0geUnUXwdLtJjNbFg/0?wx_fmt=png)  
+![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibIS6aq4pfC2O5FMOUKaia8QeNXLdtah4vph0eGtLKz2ABmaj7vyUgYzypg/0?wx_fmt=png)  
 
 ## Database description
 
@@ -44,19 +47,20 @@ Every data has been stored in different tables in Database based on their block_
 
 #### fibXX table：
   
-    topic_id:       The ID of post.
-    topic_title:        Title of post.
-    topic_image_url:       Screenshot list of video.
-    topic_page_url:      The page url of post.
-    block_id:       The ID of Post's block
-    torrent_download_url:     The video's torrent file download url.
-    torrent_page_url:     The video's torrent file download page url.
+    topic_id:               The ID of post.
+    topic_title:            Title of post.
+    topic_image_url:        Screenshot list of video.
+    topic_page_url:         The page url of post.
+    block_id:               The ID of Post's block.
+    torrent_download_url:   The video's torrent file download url.
+    torrent_page_url:       The video's torrent file download page url.
 
 ## For Chinese
 
-* 关注微信公众号“皮克啪的铲屎官”，学习Python开发，获取更多代码资料。
+* 最后来一波福利，关注公众号：***皮克啪的铲屎官***，回复“EpicScrapy1024”，能够找到你需要的东西哦~
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/jA4Qc7C9IZS5CU8Eicxw9K4kIY8BibzDJX6QiahNQ0wDC2HLheXWp6CpITXBWcxt6E4SRlxHJyrxNO6v6TlKMgeUg/0?wx_fmt=jpeg" width = "800" height = "400" alt="皮克啪的铲屎官" align=center />   
+![关注并回复 EpicScrapy1024 有惊喜](https://mmbiz.qpic.cn/mmbiz_jpg/jA4Qc7C9IZS5CU8Eicxw9K4kIY8BibzDJX6QiahNQ0wDC2HLheXWp6CpITXBWcxt6E4SRlxHJyrxNO6v6TlKMgeUg/0?wx_fmt=jpeg)
+
 
 
 
