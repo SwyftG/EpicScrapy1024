@@ -1,5 +1,5 @@
 
-![][py3x]  ![license]
+![][py3x][![GitHub license][license]]
 
 > Disclaimer: This project is intended to study the Python 3.6, the Scrapy Spider Framework and the MongoDB database, it cannot be used for commercial or other personal intentions. If used improperly, it will be the individuals bear.
 
@@ -57,6 +57,8 @@ Every data has been stored in different tables in Database based on their block_
 
 ## For Chinese
 
+[中文教程](https://github.com/SwyftG/EpicScrapy1024/blob/master/README_zh.md)
+
 * 最后来一波福利，关注公众号：***皮克啪的铲屎官***，回复“EpicScrapy1024”，能够找到你需要的东西哦~
 
 ![关注并回复 EpicScrapy1024 有惊喜](https://mmbiz.qpic.cn/mmbiz_jpg/jA4Qc7C9IZS5CU8Eicxw9K4kIY8BibzDJX6QiahNQ0wDC2HLheXWp6CpITXBWcxt6E4SRlxHJyrxNO6v6TlKMgeUg/0?wx_fmt=jpeg)
@@ -66,3 +68,4 @@ Every data has been stored in different tables in Database based on their block_
 
 [py3x]: https://img.shields.io/badge/python-3.x-brightgreen.svg
 [license]: https://img.shields.io/badge/license-MIT-blue.svg
+[lic_file]: https://raw.githubusercontent.com/xiyouMc/WebHubBot/master/LICENSE
