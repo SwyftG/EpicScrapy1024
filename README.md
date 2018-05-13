@@ -25,7 +25,7 @@
 ### Pre-boot configuration
 
 * Install MongoDB and start without configuration
-* Install Python dependent modules：Scrapy, pymongo, requests or `pip install -r requirements.txt`
+* Install Python dependent modules：Scrapy, pymongo, requests
 * Modify the configuration in `settings.py` as you wish.
 
 ### Start up
@@ -35,11 +35,11 @@
 
 
 ## Run screenshots
-![](https://wx4.sinaimg.cn/mw1024/a726c4d3gy1fr9p3tn7pyg20sb0dl1ky.gif)  
-![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISsVRic2XxECG7ZTArjGJew2YEdXNicSVTp5dGiaaaEKaMHxxHkSBc8SoFw/0?wx_fmt=png)  
-![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISwvFicyK9A1rJffECHmlHzcKaiczowIRqU4dmcy2VKs0ib4QG3hC0w9ia1w/0?wx_fmt=png)  
-![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISseQ4lHD6ia9jsVutsY1ib6DT00SGtw0N1ojeNJB0geUnUXwdLtJjNbFg/0?wx_fmt=png)  
-![](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibIS6aq4pfC2O5FMOUKaia8QeNXLdtah4vph0eGtLKz2ABmaj7vyUgYzypg/0?wx_fmt=png)  
+![](https://wx4.sinaimg.cn/mw1024/a726c4d3gy1fr9p3tn7pyg20sb0dl1ky.gif)
+![15.txt result file](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISsVRic2XxECG7ZTArjGJew2YEdXNicSVTp5dGiaaaEKaMHxxHkSBc8SoFw/0?wx_fmt=png)
+![MongoDB status](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISwvFicyK9A1rJffECHmlHzcKaiczowIRqU4dmcy2VKs0ib4QG3hC0w9ia1w/0?wx_fmt=png)
+![Downloaded torrent files](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibISseQ4lHD6ia9jsVutsY1ib6DT00SGtw0N1ojeNJB0geUnUXwdLtJjNbFg/0?wx_fmt=png)
+![Only 20min result, 117MB torrent file](https://mmbiz.qpic.cn/mmbiz_png/jA4Qc7C9IZSP5NvCWOHL0yuZ8w5KyibIS6aq4pfC2O5FMOUKaia8QeNXLdtah4vph0eGtLKz2ABmaj7vyUgYzypg/0?wx_fmt=png)
 
 ## Database description
 
