@@ -1,12 +1,12 @@
 
-![][py3x]
+![][py3x]  ![license]
 
 > Disclaimer: This project is intended to study the Python 3.6, the Scrapy Spider Framework and the MongoDB database, it cannot be used for commercial or other personal intentions. If used improperly, it will be the individuals bear.
 
 * The project is mainly used for crawling t66y.com forum, the largest Chinese BBS in the world. It retrieves title, id, poster image, download torrent url and post's url. Also DOWNLOAD the torrent file!!!
 * The project crawls the posts and downloads the torrent file of each post in t66y.com quickly with a simple structure.
-* The project can crawl up to **5 millon posts and 10 gigabyte torrent file per day**, depending on your personal network. 
-* The crawler requests 10 threads at a time. If your network is more performant you can request more threads and crawl a larger amount of posts per day. 
+* The project can crawl up to **5 millon posts and 10 gigabyte torrent file per day**, depending on your personal network.
+* The crawler requests 10 threads at a time. If your network is more performant you can request more threads and crawl a larger amount of posts per day.
 
 
 ## Architecture
@@ -46,7 +46,7 @@
 Every data has been stored in different tables in Database based on their block_id. The structure of post_item are same.
 
 #### fibXX table：
-  
+
     topic_id:               The ID of post.
     topic_title:            Title of post.
     topic_image_url:        Screenshot list of video.
@@ -65,3 +65,4 @@ Every data has been stored in different tables in Database based on their block_
 
 
 [py3x]: https://img.shields.io/badge/python-3.x-brightgreen.svg
+[license]: https://img.shields.io/badge/license-MIT-blue.svg
