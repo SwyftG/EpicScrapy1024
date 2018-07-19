@@ -6,7 +6,7 @@ from scrapy import cmdline
 
 
 def main():
-    cmdline.execute("scrapy crawl Epic1024Spider -o out.cvs -t csv".split())
+    cmdline.execute("scrapy crawl Epic1024Spider".split())
 
 
 if __name__ == '__main__':

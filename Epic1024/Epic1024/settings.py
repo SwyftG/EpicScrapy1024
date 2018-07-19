@@ -100,6 +100,6 @@ SPIDER_MIDDLEWARES = {
     'scrapy.contrib.spidermiddleware.offsite.OffsiteMiddleware': None,
 }
 
-LOCAL_FILE_ROOT = "/Users/xxx/xxx/EpicScrapy1024/Epic1024/Epic1024/output/"
-ROOT_URL = "http://bc.ghuws.men/"
+LOCAL_FILE_ROOT = "/Users/gaoliang/GaoGithub/EpicScrapy1024/Epic1024/Epic1024/output/"
+ROOT_URL = "https://cl.flexui.win/"
 CRAW_MAX_PAGES = 10

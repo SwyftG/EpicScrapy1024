@@ -15,7 +15,7 @@ from Epic1024.user_agents import agents
 from Epic1024.settings import LOCAL_FILE_ROOT, ROOT_URL, CRAW_MAX_PAGES
 
 
-class CaoliuSpider(CrawlSpider):
+class CaoliuSpider(scrapy.Spider):
     name = 'Epic1024Spider'
     root_url = ROOT_URL
     local_file_root = LOCAL_FILE_ROOT
@@ -66,6 +66,8 @@ class CaoliuSpider(CrawlSpider):
         topic_img_list = list()
         image_count = 0
         for item in img_list:
+            if "src" not in item.attrs:
+                continue
             if 'gif' in item['src']:
                 continue
             if image_count < 4:
